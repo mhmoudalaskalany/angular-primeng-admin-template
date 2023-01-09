@@ -1,2 +1,2 @@
-# angular-primeng-admin-template
-angular primeng admin template
+# Angular Prime Ng Admin Template
+angular 15 primeng admin template
